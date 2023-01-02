@@ -1,4 +1,4 @@
-# Sanity Blogging Content Studio
+# Dawood Emran Website CMS
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
